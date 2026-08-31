@@ -5,4 +5,12 @@ Section: CSCI 1260
 
 How to Run
 
-Open the project in Visual Studio Community and run the program using the Start/Run button.
+Open the project in Visual Studio. Open a new Terminal, then type:
+
+dotnet run
+
+Press Enter to run the program.
+
+Incomplete Work
+
+All parts of the assignment have been completed.
